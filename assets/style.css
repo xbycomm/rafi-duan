@@ -198,10 +198,10 @@ h2 em,h1 em{font-style:normal;color:var(--brass)}
  .sticky{position:static}.big-num{font-size:130px;margin:16px 0 4px}
  .why-item{grid-template-columns:56px 1fr;padding:30px 0}.idx{font-size:32px}
  .pull{padding:32px 26px}
+ .tile{padding:28px}
  .bento{grid-template-columns:1fr}.t-ins,.t-pen,.t-inv,.t-find{grid-column:auto;grid-row:auto}
  .t-ins{min-height:0;padding-top:170px}.illu{width:150px;top:24px;left:24px}
- .t-inv{padding-bottom:140px}.t-inv ul{max-width:none}.t-inv .illu{width:60%;left:24px}
- .tile{padding:28px}
+ .t-inv{padding-bottom:150px}.t-inv ul{max-width:none}.t-inv .illu{width:60%;left:24px}
  .steps-list li{grid-template-columns:64px 1fr}.steps-list span{font-size:54px}
  .wall{grid-template-columns:1fr}.q-feature{grid-column:auto;grid-row:auto;padding:36px 28px}
  .form{padding:36px 24px}
