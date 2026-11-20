@@ -163,7 +163,7 @@ h2 em,h1 em{font-style:normal;color:var(--brass)}
 /* footer */
 .foot{background:var(--sand);padding:70px 0 30px;overflow:hidden}
 .foot-top{display:flex;align-items:center;gap:40px;flex-wrap:wrap}
-.foot-logo img{height:84px;width:auto;mix-blend-mode:multiply}
+.foot-logo{display:inline-block;background:#fff;padding:10px 16px;box-shadow:0 10px 30px -18px rgba(0,0,0,.35)}.foot-logo img{height:76px;width:auto}
 .foot-top nav{display:flex;gap:28px;flex-wrap:wrap;margin-inline-start:auto}
 .foot-top nav a{text-decoration:none;font-weight:500;color:var(--forest)}.foot-top nav a:hover{color:var(--brass)}
 .foot-word{font-family:var(--serif);font-size:clamp(70px,15vw,220px);line-height:1;margin:40px 0 20px;color:transparent;-webkit-text-stroke:1px rgba(18,51,41,.25);white-space:nowrap;letter-spacing:-.02em}
